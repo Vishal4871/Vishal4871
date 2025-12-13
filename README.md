@@ -1,4 +1,4 @@
-![logo](https://github.com/Vishal4871/Vishal4871/blob/main/banner.png)
+![logo](https://github.com/Vishal4871/Vishal4871/blob/main/banner1.png)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">AI + DevOps and Full Stack Developer from India</h3>
